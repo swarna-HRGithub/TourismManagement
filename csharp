@@ -1,0 +1,4 @@
+class csharp
+{
+  console.writeline("program");
+  }
